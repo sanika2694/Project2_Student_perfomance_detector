@@ -1,0 +1,1 @@
+Developed a machine learning model using logistic regression to predict whether a student will pass based on hours studied and attendance percentage. The project includes data preprocessing, model training with a pipeline, performance evaluation, real-time user input prediction, and visualization of the decision boundary.
